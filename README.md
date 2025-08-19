@@ -9,7 +9,7 @@ WinterCraft**, using a custom ice texture.
 
 The generated cube looks like this (using the ice texture):
 
-![WinterCraft Block Logo](block_textured.png)
+![WinterCraft Block Logo](block_ice_frontfaces.png)
 
 ## Features
 
